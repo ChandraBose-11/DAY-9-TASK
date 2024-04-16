@@ -1,6 +1,4 @@
 body{
-    margin:1%;
-    padding:1%;
     background-color:whitesmoke;
 }
 .stars{
@@ -17,4 +15,7 @@ table,thead,tr,td{
 }
 table,th{
   padding-left:40px;
+}
+.form-control{
+  width:30%;
 }
